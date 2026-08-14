@@ -47,11 +47,10 @@ món ăn) mới yêu cầu đăng nhập Google.
 
 ## 5. Xoá dữ liệu / xoá tài khoản
 
-Hiện tại, để xoá tài khoản và toàn bộ dữ liệu liên quan (thực phẩm, lịch sử sử dụng, thông
-tin đăng nhập), vui lòng gửi yêu cầu tới email liên hệ bên dưới. Chúng tôi sẽ xoá vĩnh viễn
-dữ liệu trong vòng 7 ngày làm việc và xác nhận lại với bạn qua email.
-
-_(Ứng dụng sẽ sớm bổ sung nút xoá tài khoản trực tiếp trong màn Cá nhân.)_
+Bạn có thể xoá tài khoản và toàn bộ dữ liệu liên quan (thực phẩm, lịch sử sử dụng, lượt AI đã
+mua, thông tin đăng nhập) trực tiếp trong app (Cá nhân → Xoá tài khoản), hoặc nếu không cài
+app/không đăng nhập được, xem hướng dẫn tại
+[chechle39.github.io/fridge-guardian-legal/delete-account/](https://chechle39.github.io/fridge-guardian-legal/delete-account/).
 
 ## 6. Liên hệ
 
@@ -103,11 +102,10 @@ recipe suggestions) require Google sign-in.
 
 ## 5. Data / account deletion
 
-Currently, to delete your account and all associated data (food items, usage history, sign-in
-information), please send a request to the contact email below. We will permanently delete
-your data within 7 business days and confirm by email.
-
-_(In-app account deletion from the Profile screen is coming soon.)_
+You can delete your account and all associated data (food items, usage history, purchased AI
+credits, sign-in information) directly in the app (Profile → Delete account), or if you don't
+have the app installed or can't sign in, see instructions at
+[chechle39.github.io/fridge-guardian-legal/delete-account/](https://chechle39.github.io/fridge-guardian-legal/delete-account/).
 
 ## 6. Contact
 
